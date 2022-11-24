@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#import-box {
+    border: 1px solid grey;
+    border-radius: 2px;
+    width: 500px;
+    min-height: 300px;
+    padding: 24px;
+}
